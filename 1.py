@@ -1,4 +1,4 @@
 '''
-作者: xxx@xiami.com
+author: xxx@xiaomi.com
 '''
 print('hello world!')
